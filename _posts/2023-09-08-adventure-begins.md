@@ -7,8 +7,6 @@ categories:
  -website
 ---
 
-![Pied Stilts](https://photos.app.goo.gl/ai8YS5PCgENsw16HA)
-
 
 ## Images
 
@@ -16,9 +14,9 @@ Upload an image to the *assets* folder and embed it with `![title](/assets/name.
 
 A wrapper `div` with the class `large` can be used to increase the width of an image or iframe.
 
-![Flower](https://user-images.githubusercontent.com/4943215/55412447-bcdb6c80-5567-11e9-8d12-b1e35fd5e50c.jpg)
+![Pied Stilts](/assets/PiedStilts.jpg)
 
-[Flower](https://unsplash.com/photos/iGrsa9rL11o) by Tj Holowaychuk
+[Pied Stilts](https://photos.app.goo.gl/ai8YS5PCgENsw16HA) by MG
 
 ## Embedded content
 
