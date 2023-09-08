@@ -1,11 +1,13 @@
 ---
-title:  "Advanced examples"
+title:  "The Adventures Begin"
 mathjax: true
 layout: post
-categories: media
+categories: 
+ -github
+ -website
 ---
 
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+![Pied Stilts](https://photos.app.goo.gl/ai8YS5PCgENsw16HA)
 
 
 ## MathJax
