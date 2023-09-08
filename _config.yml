@@ -16,9 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/Nest", title: "Nest"}
+  - {file: "Nest", title: "Nest"}
   - {file: "README.md", title: "Bird friends", icon: duck}
-  - {title: 'Universal Pigeon", file: "/pigeon.md'}
+  - {title: 'Universal Pigeon", file: "pigeon.md'}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mushroomnewsletter@gmail.com"}
