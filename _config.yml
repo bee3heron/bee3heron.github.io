@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "Nest.pdf", title: "Nest"}
+  - {file: "Nest.png", title: "Nest"}
   - {file: "README.md", title: "Information", icon: brain}
   - {title: 'Universal Pigeon", url:"https://photos.app.goo.gl/snSRHRsZCuZZVhNL7"}
 
