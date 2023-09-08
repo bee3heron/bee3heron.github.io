@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Nest"
+title: "Bird Adventures"
 ---
 
 {% if site.show_excerpts %}
