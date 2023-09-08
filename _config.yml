@@ -1,6 +1,6 @@
 title: "Birdies"
 author: "Kiki"
-description: "I want to be a bird.inc style=\"color: #f45;\">&lt;3</b>"
+description: "I want to be a bird.inc"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
